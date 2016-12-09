@@ -7,9 +7,6 @@ import org.jsoup.select.Elements;
 
 import java.io.IOException;
 
-/**
- * Created by peter zhao on 6/6/2016.
- */
 public class TaiHuNewHouse {
 
 	public static String houseName, housePrice;
